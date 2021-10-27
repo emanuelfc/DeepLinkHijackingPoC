@@ -11,6 +11,8 @@ A script that automates the creation of an Android application which receives de
 ## Requirements
 
 Python3
+
+adb (Android Debug Bridge) - Optional. Only required for the install option.
 <br><br>
 
 ## Usage
@@ -31,7 +33,7 @@ optional arguments:
 
 <br>
 
-Example:
+### Example:
 
 Creates the PoC app receiving deep links for "testApp://test/".
 ```text
