@@ -1,6 +1,6 @@
 # DeepLinkHijackingPoC
 
-Create PoCs Apps for Deep Link Hijacking.
+Create PoC Android Apps for Deep Link Hijacking.
 <br><br>
 
 ## Description
