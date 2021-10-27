@@ -6,6 +6,8 @@ Create PoC Android Apps for Deep Link Hijacking.
 ## Description
 
 A script that automates the creation of an Android application which receives deep links of the specified URL, for the purpose of creating a Proof-of-Concept of Deep Link Hijacking for Android Security assessments (Android Penetration Tests).
+
+Modifies the deep link scheme and host portions of the AndroidManifest.xml of a template project with, then compiles it using gradle.
 <br><br>
 
 ## Requirements
